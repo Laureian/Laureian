@@ -8,6 +8,7 @@
 - JavaScript: From Fundamentals to Functional JS, v2 by Bianca Gandolfo
 - JavaScript: The Hard Parts, v2 by Will Sentance 🔥
 - Deep JavaScript Foundations, v3 by Kyle Simpson
+- Complete Intro to React, v5 by Brian Holt
 
 🌱 Currently watching JavaScript: The Hard Parts of Object Oriented JavaScript
 
