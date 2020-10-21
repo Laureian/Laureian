@@ -10,7 +10,9 @@
 - Deep JavaScript Foundations, v3 by Kyle Simpson
 - Complete Intro to React, v5 by Brian Holt
 
-🌱 Currently watching JavaScript: The Hard Parts of Object Oriented JavaScript
+#### 🔭 Currently watching
+- JavaScript: The Hard Parts of Object Oriented JavaScript
+- Intermediate React, v2 by Brian Holt
 
 <!--
 **Laureian/Laureian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
