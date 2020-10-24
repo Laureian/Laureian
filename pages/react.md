@@ -13,8 +13,9 @@ My private react resources page with interesting courses, articles, libraries.
 - [Frontend Masters React course website](https://btholt.github.io/complete-intro-to-react-v5/)
 - [Frontend Masters Pure React state](https://github.com/FrontendMasters/pure-react-state-management)
 
-## Articles
-- 
+## Hooks collections
+- https://nikgraf.github.io/react-hooks/
+- https://stereobooster.github.io/react-hooks/
 
 ## Testing
 - https://jestjs.io/
