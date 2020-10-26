@@ -14,6 +14,7 @@
 
 #### 🔭 Currently watching
 - JavaScript: The Hard Parts of Object Oriented JavaScript by Will Sentance
+- AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53) by Steve Kinney
 
 <!--
 **Laureian/Laureian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
