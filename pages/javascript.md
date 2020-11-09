@@ -16,11 +16,11 @@ My private Javascript resources page with interesting courses, articles, librari
 - typeof [1,2,3] -> "object"
 - typeof {} -> "object"
 
-let name = "Maciej";
+`let name = "Maciej";
 let something = name / 2;
 
 something; // NaN
-Number.isNaN(something); // true
+Number.isNaN(something); // true`
 
 ## Closures
 - https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch1.md
