@@ -5,6 +5,7 @@
 #### Completed Frontend Masters Courses
 - CSS In-Depth, v2 by Estelle Weyl
 - Git In-depth by Nina Zakharenko 🔥
+- Getting Started with JavaScript, v2 by Kyle Simpson
 - JavaScript: From Fundamentals to Functional JS, v2 by Bianca Gandolfo
 - JavaScript: The Hard Parts, v2 by Will Sentance 🔥
 - Deep JavaScript Foundations, v3 by Kyle Simpson
