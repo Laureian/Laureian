@@ -10,6 +10,17 @@ My private Javascript resources page with interesting courses, articles, librari
 
 ## Types&Corecion
 `In Javascript variables don't have types, values do.`
+- typeof null -> "object"
+- typeof undeclaredVariable -> "undefined"
+- typeof function() {} -> "function"
+- typeof [1,2,3] -> "object"
+- typeof {} -> "object"
+
+let name = "Maciej";
+let something = name / 2;
+
+something; // NaN
+Number.isNaN(something); // true
 
 ## Closures
 - https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch1.md
