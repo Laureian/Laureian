@@ -17,11 +17,9 @@ My private Javascript resources page with interesting courses, articles, librari
 - typeof {} -> "object"
 
 `let name = "Maciej";`
-
 `let something = name / 2;`
 
 `something; // NaN`
-
 `Number.isNaN(something); // true`
 
 ## Closures
