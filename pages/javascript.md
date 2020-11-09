@@ -22,6 +22,17 @@ My private Javascript resources page with interesting courses, articles, librari
 `something; // NaN`
 `Number.isNaN(something); // true`
 
+## new operator
+
+| don't use   | use       |
+|-------------|:---------:|
+| Object()    | String()  |
+| Array()     | Boolean() |
+| Function()  | Number()  |
+| Date()      |           |
+| RegExp()    |           |
+| Error()     |           |
+
 ## Closures
 - https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch1.md
 - http://ryanmorr.com/understanding-scope-and-context-in-javascript/
