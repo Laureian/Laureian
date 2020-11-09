@@ -33,6 +33,16 @@ My private Javascript resources page with interesting courses, articles, librari
 | RegExp()    |           |
 | Error()     |           |
 
+## Falsy values
+- "" - empty string
+- 0, -0
+- null
+- NaN
+- false
+- unefined
+
+Everything else is thruthy
+
 ## Closures
 - https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch1.md
 - http://ryanmorr.com/understanding-scope-and-context-in-javascript/
