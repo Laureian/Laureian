@@ -5,7 +5,8 @@ My private Javascript resources page with interesting courses, articles, librari
 ## Courses
 - https://frontendmasters.com/courses/getting-started-javascript-v2/
 
-## Websites
+## Excercises
+- https://static.frontendmasters.com/resources/2019-05-08-getting-into-javascript/getting-into-javascript.zip
 
 ## Closures
 - https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch1.md
