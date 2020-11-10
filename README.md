@@ -16,7 +16,7 @@
 #### 🔭 Currently watching
 - JavaScript: The Hard Parts of Object Oriented JavaScript by Will Sentance
 - AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53) by Steve Kinney
-- Introduction to Node.js by Scott Moss
+- Hardcore Functional Programming in JavaScript, v2 by Brian Lonsdorf
 
 #### 📖 Readed books
 - You Don't Know JS: Up & Going by Kyle Simpson
