@@ -8,6 +8,7 @@
 - Complete Intro to React, v5 by Brian Holt
 - Intermediate React, v2 by Brian Holt 🔥
 - State Management in Pure React, v2 by Steve Kinney 🔥
+- Complete Intro to Linux and the Command-Line 🔥
 
 #### 🔭 Currently watching
 - JavaScript: The Hard Parts of Object Oriented JavaScript by Will Sentance
