@@ -1,7 +1,5 @@
 ### Hi there I'm Maciej Andrzejczuk aka. Laureian
 
-[![Code Wars Badge](https://www.codewars.com/users/Laureian/badges/small)](https://www.codewars.com/users/Laureian)
-
 [Completed courses](https://github.com/Laureian/Laureian/blob/main/pages/courses.md)
 
 #### 📖 Readed books
