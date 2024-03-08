@@ -5,7 +5,7 @@
 The world of software development and innovation has always fascinated me. My insatiable curiosity drives me to delve into the latest technologies, eager to unravel their potential and incorporate them into cutting-edge projects. Join me on this exciting journey as we navigate the ever-evolving landscape of technology fueled by curiosity, passion, and a relentless pursuit of excellence.
 </p>
 
-- 🌱 Currently learning: **Content Moderation, Deep Learning**
+- 🌱 Currently learning: **Writing, Deep Learning**
 
 - 🏗️ Building next: **A personal blog. Follow me [here](https://codefreak.pl).**
 
