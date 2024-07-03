@@ -113,6 +113,15 @@ The world of software development and innovation has always fascinated me. My in
 
 <h3 align="left">🎓 Completed <a href="https://frontendmasters.com/" target="_blank" rel="noreferrer">Frontend Masters</a> Courses</h3>
 
+<h4 align="left">TypeScript 🔥</h3>
+
+- TypeScript 5+ Fundamentals, v4 by Mike North
+- Intermediate TypeScript, v2 by Mike North
+- Making TypeScript Stick by Mike North
+- Enterprise TypeScript by Mike North
+
+<h4 align="left">Others</h3>
+
 - CSS In-Depth, v2 by Estelle Weyl
 - Git In-depth by Nina Zakharenko 🔥
 - Getting Started with JavaScript, v2 by Kyle Simpson
@@ -122,7 +131,7 @@ The world of software development and innovation has always fascinated me. My in
 - Complete Intro to React, v5 by Brian Holt
 - Intermediate React, v2 by Brian Holt 🔥
 - State Management in Pure React, v2 by Steve Kinney 🔥
-- Complete Intro to Linux and the Command-Line 🔥
+- Complete Intro to Linux and the Command-Line by Brian Holt 🔥
 - JavaScript: The Hard Parts of Object Oriented JavaScript by Will Sentance
 - AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53) by Steve Kinney
 - Hardcore Functional Programming in JavaScript, v2 by Brian Lonsdorf
