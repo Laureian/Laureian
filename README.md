@@ -70,7 +70,7 @@ The world of software development and innovation has always fascinated me. My in
 <h3 align="left">Tools</h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/amazonaws" alt="amazon-aws" width="60" height="60" />
+    <img src="https://cdn.simpleicons.org/amazonwebservices" alt="amazon-aws" width="60" height="60" />
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/microsoftazure" alt="ms-azure" width="60" height="60" />
